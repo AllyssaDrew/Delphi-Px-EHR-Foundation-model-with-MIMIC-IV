@@ -179,7 +179,7 @@ Top SHAP contributors to Death prediction (mean |SHAP|):
 ## Citation
 
 ```bibtex
-@inproceedings{anonymous2026delphipx,
+@inproceedings{ganzeyu2026delphipx,
   title     = {Discrete Phenotype Tokens Bridge Clinical Notes and {EHR} Sequences
                for Trustworthy Mortality Prediction},
   author    = {ganzeyu},
