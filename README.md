@@ -182,8 +182,8 @@ Top SHAP contributors to Death prediction (mean |SHAP|):
 @inproceedings{anonymous2026delphipx,
   title     = {Discrete Phenotype Tokens Bridge Clinical Notes and {EHR} Sequences
                for Trustworthy Mortality Prediction},
-  author    = {Anonymous},
-  booktitle = {Advances in Neural Information Processing Systems},
+  author    = {ganzeyu},
+  booktitle = {BIOS740},
   year      = {2026}
 }
 ```
